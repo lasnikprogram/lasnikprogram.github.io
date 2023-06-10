@@ -1,2 +1,2 @@
-# lasnik.github.io
-Hello World!
+# lasnikprogram.github.io
+Lasnik's personal website
