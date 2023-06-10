@@ -1,6 +1,8 @@
-sudo apt update
+sudo apt-get update
 
-sudo apt install usbmuxd -y
+sudo apt-get install \
+	usbmuxd git \
+	-y
 
 git clone https://github.com/SonicCloudOrg/sonic-ios-bridge sib
 
